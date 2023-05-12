@@ -1,5 +1,2 @@
 <?php
-echo "PIN-33 Комаревцев Владимир". '<br>';
-include 'vendor/autoload.php';
-include 'User.php';
-include 'Comment.php';
+$dateTime = readline("Enter in format 'd-m-Y H:i:s': ");
